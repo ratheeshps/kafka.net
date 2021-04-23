@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0wdkTQweTopVL9OarT/CpVGR+dpeu0MSqndD1OmMy+VBj49Rx1EuAKk5NRTlWNroNe/6t+Nxn46sjy/zmSquA==",
+  "success": true,
+  "projectFilePath": "D:\\Demo\\Kafka.net\\Services\\ConsumerService\\ConsumerService\\ConsumerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ratheesh Kumar P S\\.nuget\\packages\\confluent.kafka\\1.6.3\\confluent.kafka.1.6.3.nupkg.sha512",
+    "C:\\Users\\Ratheesh Kumar P S\\.nuget\\packages\\librdkafka.redist\\1.6.1\\librdkafka.redist.1.6.1.nupkg.sha512",
+    "C:\\Users\\Ratheesh Kumar P S\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

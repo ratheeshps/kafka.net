@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMU8V78JcLjKm5qDHVDNItD+ro6F4OQASIDafHpc8vYW7/h1ECnG+lGSj10+bKJV0y2eS5goQUIngpucDBpCfg==",
+  "success": true,
+  "projectFilePath": "D:\\Demo\\Kafka.net\\Services\\OrderMicroservice\\OrderMicroservice\\OrderMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ratheesh Kumar P S\\.nuget\\packages\\confluent.kafka\\1.6.3\\confluent.kafka.1.6.3.nupkg.sha512",
+    "C:\\Users\\Ratheesh Kumar P S\\.nuget\\packages\\librdkafka.redist\\1.6.1\\librdkafka.redist.1.6.1.nupkg.sha512",
+    "C:\\Users\\Ratheesh Kumar P S\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ratheesh Kumar P S\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
